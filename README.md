@@ -15,7 +15,7 @@ Please refer to Using the Create LRS in Address Data Management solution tool.pd
 
 ## Requirements
 
-* ArcGIS Pro licensed with the Location Referencing extension
+* ArcGIS Pro authorized with a Standard or Advanced license and the Location Referencing extension
 
 ## Resources
 
