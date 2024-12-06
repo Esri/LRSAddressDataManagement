@@ -1,6 +1,12 @@
-# Create LRS in Address Data Management solution tool
+# AddressDataManagement Toolset
 
-This repository hosts the Create LRS in Address Data Management solution Python tool.
+This repository hosts the AddressDataManagement Toolset for ArcGIS Pro. The AddressDataManagement Toolset assists with the integration process between ArcGIS Roads and Highways and the Address Data Management solution.
+
+## Features
+
+The AddressDataManagement Toolset contains the following tool:
+ 
+* Create LRS in Address Data Management solution - Creates a linear referencing system (LRS) in an Address Data Management geodatabase that contains an existing RoadCenterline feature class.
 
 ## Instructions
 
@@ -19,7 +25,8 @@ Please refer to Using the Create LRS in Address Data Management solution tool.pd
 
 ## Resources
 
-* [Roads and Highways product documentation](https://pro.arcgis.com/en/pro-app/latest/help/production/roads-highways/)
+* [Roads and Highways product documentation](https://pro.arcgis.com/en/pro-app/latest/help/production/roads-highways/what-is-roads-and-highways.htm)
+* [Manage address and roadway characteristic data together](https://pro.arcgis.com/en/pro-app/latest/help/production/roads-highways/manage-address-and-roadway-characteristic-data-together.htm)
 
 ## Issues
 
@@ -30,7 +37,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
-Copyright 2025 Esri
+Copyright 2024 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -44,4 +51,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A copy of the license is available in the repository's [license.txt]( https://raw.github.com/Esri/quickstart-map-js/master/license.txt) file.
+A copy of the license is available in the repository's [LICENSE]( https://raw.github.com/Esri/quickstart-map-js/master/license.txt) file.
