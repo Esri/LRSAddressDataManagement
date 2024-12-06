@@ -187,7 +187,7 @@ def CreateRedlineFeatureClass(out_path_and_name, sr, isBranchVersioned, passFail
         arcpy.management.CreateFeatureclass(featureDatasetPath, fileName, "POLYLINE", None, 
                                 hasM, hasZ, sr)
     except BaseException:
-        arcpy.AddError("Could not create Redline feature class. Verify that you have atleast a Standard license level in Pro to work with this data.")
+        arcpy.AddError("Could not create Redline feature class. Verify that you have at least a Standard license level in Pro to work with this data.")
         return
     
     # Add fields to the Redline feature class.
@@ -226,7 +226,7 @@ def CreateCalibrationPointFeatureClass(out_path_and_name, sr, isBranchVersioned,
         arcpy.management.CreateFeatureclass(featureDatasetPath, fileName, "POINT", None, 
                                 hasM, hasZ, sr)
     except BaseException:
-        arcpy.AddError("Could not create CalibrationPoint feature class. Verify that you have atleast a Standard license level in Pro to work with this data.")
+        arcpy.AddError("Could not create CalibrationPoint feature class. Verify that you have at least a Standard license level in Pro to work with this data.")
         return
     
     # Add fields to the Calibration Point feature class.
