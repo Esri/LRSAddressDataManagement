@@ -1,20 +1,17 @@
-# AddressDataManagement Toolset
+# Create LRS in Address Data Management solution tool
 
-This repository hosts the AddressDataManagement Toolset for ArcGIS Pro. The AddressDataManagement Toolset contains Python tools that can assist you in creating an LRS in an existing Address Data Management solution. 
-
-## Features
-
-The AddressDataManagement Toolset contains the following tool:
-* Create LRS in Address Data Management solution - Creates all required schema items and also the LRS dataset in the provided Address Data Management solution.
+This repository hosts the Create LRS in Address Data Management solution Python tool.
 
 ## Instructions
 
-1. Download this repository as a .zip folder, or clone it to your computer.
+1. Download this repository as a .zip folder, or clone it to your computer. 
 2. Open a project in ArcGIS Pro.
 3. Open the Catalog pane.
 4. Right click the Toolboxes folder, then click Add Toolbox.
 5. Browse to the AddressDataManagement Toolset folder you downloaded.
 6. Select AddressDataManagement Toolset.pyt, then click OK.
+
+Please refer to Using the Create LRS in Address Data Management solution tool.pdf for specific information on this tool.
 
 ## Requirements
 
@@ -33,7 +30,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
-Copyright 2024 Esri
+Copyright 2025 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
